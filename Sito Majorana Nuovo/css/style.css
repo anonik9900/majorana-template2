@@ -1,0 +1,74 @@
+@font-face {
+  font-family: Poppins-Bold;
+  src: url(../fonts/poppins-bold/Poppins-Bold.otf);
+}
+
+html,body{
+  height: 100% auto;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+  background: #030653;
+}
+
+
+#home{
+  height: 100%;
+  width: 100%;
+  background: green;
+}
+
+#home-content{
+  height: 100%;
+  width: 100%;
+  background: white;
+  background-size: cover;
+
+}
+
+h1.titolo{
+  padding-top: 50px;
+  color: black;
+  font-family: Poppins-Bold;
+  font-size: 60px;
+  text-align: center;
+}
+
+img.media-reactive{
+  max-width: 100%;
+}
+
+#news-feed{
+  background-color: #030653;
+  margin: 0;
+  padding: 0;
+}
+
+h3.feed{
+  font-size: 45px;
+  font-family: Arial;
+  text-align: center;
+  color: white;
+}
+
+.rss-box{
+  font-size: 20px !important;
+}
+
+a.rss-title{
+  color: white;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 30px;
+  text-align: center;
+}
+
+.rss-item{
+  transition: all 0.5s ease;
+  color: white;
+}
+
+a.rss-item:hover{
+  transition: all 0.5s ease;
+  color: red;
+}

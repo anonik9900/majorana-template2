@@ -1,0 +1,22 @@
+
+
+
+
+
+Creare il sito cosi
+
+Navbar
+
+Pagina che permette di creare le notizie
+
+Home statica
+
+Footer
+
+---------------
+AGGIORNAMENTI
+
+Navbar template - Fatta
+Home statica - Fatta
+
+
