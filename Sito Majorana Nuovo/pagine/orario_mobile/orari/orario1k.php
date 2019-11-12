@@ -1,5 +1,5 @@
 
-<!-- saved from url=(0062)http://www.veronatrento.it/orario%2018-19/MM/Classi/1%20K.html -->
+<!-- saved from url=(0059)http://veronatrento.it/orario%2019-20/MMD/Classi/1%20K.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>
 ISTITUTO D'ISTRUZIONE SUPERIORE "VERONA TRENTO" - MESSINA - Orario 1 K
@@ -9,15 +9,15 @@ ISTITUTO D'ISTRUZIONE SUPERIORE "VERONA TRENTO" - MESSINA - Orario 1 K
 <meta name="ROBOTS" content="index, follow">
 <style>
 A.nodecBlack {color: #000000; text-decoration:none; font-family: 'Tahoma'; font-size: 8pt; font-weight: normal; font-style: normal;}
-A.nodecBlack:hover {text-decoration:none;} 
+A.nodecBlack:hover {text-decoration:none;}
 A.nodecWhite {color: #FFFFFF; text-decoration:none; font-family: 'Tahoma'; font-size: 8pt; font-weight: normal; font-style: normal;}
-A.nodecWhite:hover {text-decoration:none;} 
+A.nodecWhite:hover {text-decoration:none;}
 .nodecBlack {color: #000000; text-decoration:none; font-family: 'Tahoma'; font-size: 8pt; font-weight: normal; font-style: normal;}
-.nodecBlack:hover {text-decoration:none;} 
+.nodecBlack:hover {text-decoration:none;}
 .nodecWhite {color: #FFFFFF; text-decoration:none; font-family: 'Tahoma'; font-size: 8pt; font-weight: normal; font-style: normal;}
-.nodecWhite:hover {text-decoration:none;} 
+.nodecWhite:hover {text-decoration:none;}
 .mathema {color: #444444; text-decoration:none; font-family: 'Tahoma'; font-size: 8pt; font-weight: normal; font-style: normal;}
-.mathema:hover {text-decoration:none;} 
+.mathema:hover {text-decoration:none;}
 </style></head>
 
 
@@ -97,20 +97,29 @@ VEN5
 8.00
 </td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#BFBFFF" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Geografia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LA%20MALFA.html" class="nodecBlack">LA MALFA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Fisica_prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/BARRESI.html" class="nodecBlack">BARRESI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MINUTOLI%20LAB%20FISICA.html" class="nodecBlack">MINUTOLI LAB FISICA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-34%20fisica.html" class="nodecBlack">II-34 fisica</a></p>
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/RESIDUO%20LAB%20CHIMICA.html" class="nodecBlack">RESIDUO LAB CHIMICA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-35%20chimica.html" class="nodecBlack">II-35 chimica</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -118,44 +127,26 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Chimica _prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LIOTTA.html" class="nodecBlack">LIOTTA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -163,17 +154,62 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecWhite">Scienz.motorie e sportive</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Fisica_prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/BARRESI.html" class="nodecBlack">BARRESI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MINUTOLI%20LAB%20FISICA.html" class="nodecBlack">MINUTOLI LAB FISICA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-34%20fisica.html" class="nodecBlack">II-34 fisica</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/RESIDUO%20LAB%20CHIMICA.html" class="nodecBlack">RESIDUO LAB CHIMICA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-35%20chimica.html" class="nodecBlack">II-35 chimica</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -181,35 +217,98 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#BFBFFF" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Geografia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LA%20MALFA.html" class="nodecBlack">LA MALFA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Geografia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LA%20MALFA.html" class="nodecBlack">LA MALFA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#80BFFF" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Scienze della Terra e Biologia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/MONDELLO.html" class="nodecBlack">MONDELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/RESIDUO%20LAB%20CHIMICA.html" class="nodecBlack">RESIDUO LAB CHIMICA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-35%20chimica.html" class="nodecBlack">II-35 chimica</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+</p><p id="nodecWhite">Scienz.motorie e sportive</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -217,110 +316,11 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#00FF00" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Religione</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/ACCARDI.html" class="nodecBlack">ACCARDI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ACCARDI.html" class="nodecBlack">ACCARDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">T I C</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/CERAOLO.html" class="nodecBlack">CERAOLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">T I C</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/CERAOLO.html" class="nodecBlack">CERAOLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
 
 </tr>
 
@@ -330,200 +330,74 @@ VEN5
 9.35
 </td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
 <td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecWhite">Scienz.motorie e sportive</p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Fisica_prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BARRESI.html" class="nodecBlack">BARRESI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/GALLO%20N..html" class="nodecBlack">GALLO N.</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-34%20fisica.html" class="nodecBlack">II-34 fisica</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Chimica _prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LIOTTA.html" class="nodecBlack">LIOTTA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BASILE.html" class="nodecBlack">BASILE</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-35%20chimica.html" class="nodecBlack">II-35 chimica</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Fisica_prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BARRESI.html" class="nodecBlack">BARRESI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/GALLO%20N..html" class="nodecBlack">GALLO N.</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-34%20fisica.html" class="nodecBlack">II-34 fisica</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Chimica _prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LIOTTA.html" class="nodecBlack">LIOTTA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Chimica _prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LIOTTA.html" class="nodecBlack">LIOTTA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BASILE.html" class="nodecBlack">BASILE</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-35%20chimica.html" class="nodecBlack">II-35 chimica</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#80BFFF" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Scienze della Terra e Biologia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/MONDELLO.html" class="nodecBlack">MONDELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#BFBFFF" colspan="1" rowspan="1" color="#000000">
 <p id="nodecBlack">Geografia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LA%20MALFA.html" class="nodecBlack">LA MALFA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LA%20MALFA.html" class="nodecBlack">LA MALFA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecWhite">Scienz.motorie e sportive</p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+
+</td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80BFFF" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Scienze della Terra e Biologia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MONDELLO.html" class="nodecBlack">MONDELLO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -531,17 +405,8 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Chimica _prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LIOTTA.html" class="nodecBlack">LIOTTA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#00FF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Religione</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/ACCARDI.html" class="nodecBlack">ACCARDI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -549,8 +414,143 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecWhite" nowrap="" bgcolor="#FF0080" colspan="1" rowspan="1" color="#FFFFFF">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecWhite">Storia</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/PROVENZANI.html" class="nodecWhite">PROVENZANI</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecWhite">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#BFBFFF" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Geografia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LA%20MALFA.html" class="nodecBlack">LA MALFA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Diritto ed economia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+
+</td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+
+</td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">T I C</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/CALARESO.html" class="nodecBlack">CALARESO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+
+</td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Italiano</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/IRRERA%20R..html" class="nodecBlack">IRRERA R.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -563,20 +563,137 @@ VEN5
 11.10
 </td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Chimica _prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LIOTTA.html" class="nodecBlack">LIOTTA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BASILE.html" class="nodecBlack">BASILE</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-35%20chimica.html" class="nodecBlack">II-35 chimica</a></p>
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">T I C</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/CALARESO.html" class="nodecBlack">CALARESO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+
+</td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80BFFF" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Scienze della Terra e Biologia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MONDELLO.html" class="nodecBlack">MONDELLO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Diritto ed economia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecWhite">Scienz.motorie e sportive</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecWhite" nowrap="" bgcolor="#FF0080" colspan="1" rowspan="1" color="#FFFFFF">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecWhite">Storia</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/PROVENZANI.html" class="nodecWhite">PROVENZANI</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecWhite">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">T I C</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/CALARESO.html" class="nodecBlack">CALARESO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+
+</td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -584,62 +701,26 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#00FF00" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Religione</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/ACCARDI.html" class="nodecBlack">ACCARDI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ACCARDI.html" class="nodecBlack">ACCARDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">T I C</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/CERAOLO.html" class="nodecBlack">CERAOLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
-
-<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecWhite">Scienz.motorie e sportive</p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
+<td class="nodecWhite" nowrap="" bgcolor="#FF0080" colspan="1" rowspan="1" color="#FFFFFF">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">T I C</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/CERAOLO.html" class="nodecBlack">CERAOLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Diritto ed economia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecWhite">Storia</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/PROVENZANI.html" class="nodecWhite">PROVENZANI</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecWhite">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -647,26 +728,8 @@ VEN5
 <td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecWhite">Scienz.motorie e sportive</p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -674,17 +737,8 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Diritto ed economia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -692,8 +746,17 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Fisica_prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/BARRESI.html" class="nodecBlack">BARRESI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MINUTOLI%20LAB%20FISICA.html" class="nodecBlack">MINUTOLI LAB FISICA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-34%20fisica.html" class="nodecBlack">II-34 fisica</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -701,8 +764,17 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Diritto ed economia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -710,80 +782,8 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">T I C</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/CERAOLO.html" class="nodecBlack">CERAOLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
-
-</td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -796,29 +796,20 @@ VEN5
 12.45
 </td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Diritto ed economia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
+</td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -826,170 +817,188 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lingua inglese</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARENA.html" class="nodecBlack">ARENA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Matematica 4</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#00FF00" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Religione</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ACCARDI.html" class="nodecBlack">ACCARDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Diritto ed economia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="mathema" nowrap="" bgcolor="#FFFFFF" colspan="1" rowspan="1">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
+<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
 <p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
 
 </td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Diritto ed economia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecWhite">Scienz.motorie e sportive</p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
+<p id="nodecWhite"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="mathema" nowrap="" bgcolor="#FFFFFF" colspan="1" rowspan="1">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#80BFFF" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Scienze della Terra e Biologia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/MONDELLO.html" class="nodecBlack">MONDELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-17%20scienze.html" class="nodecBlack">0-17 scienze</a></p>
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Scienze della Terra e Biologia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MONDELLO.html" class="nodecBlack">MONDELLO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
+<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecBlack">Diritto ed economia</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="nodecBlack" nowrap="" bgcolor="#C0E080" colspan="1" rowspan="1" color="#000000">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="nodecBlack">Chimica _prof</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/DI%20STEFANO.html" class="nodecBlack">DI STEFANO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="mathema">&nbsp;</p><p>
+
+</p></td>
+
+<td class="mathema" nowrap="" bgcolor="#FFFFFF" colspan="1" rowspan="1">
+<p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
+</p><p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#FFFF00" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Matematica 4</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SCIABA&#39;.html" class="nodecBlack">SCIABA'</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="mathema" nowrap="" bgcolor="#FFFFFF" colspan="1" rowspan="1">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/GIANNETTO.html" class="nodecBlack">GIANNETTO</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/I-08.html" class="nodecBlack">I-08</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
 
 <td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
 <p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#DAB6B6" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">T I C</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/CERAOLO.html" class="nodecBlack">CERAOLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/COPPOLINO.html" class="nodecBlack">COPPOLINO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-34%20cad.html" class="nodecBlack">I-34 cad</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/EX%20CAMARDA.html" class="nodecBlack">EX CAMARDA</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/MUSCARA&#39;.html" class="nodecBlack">MUSCARA'</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/II-25%20(%20LAB%20INFO).html" class="nodecBlack">II-25 ( LAB INFO)</a></p>
 
 </td>
 
-<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
+<td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
-</p><p id="nodecWhite">Scienz.motorie e sportive</p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="mathema" nowrap="" bgcolor="#FFFFFF" colspan="1" rowspan="1">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#80FF80" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua inglese</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/SPAVARA.html" class="nodecBlack">SPAVARA</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-02.html" class="nodecBlack">II-02</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Diritto ed economia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecWhite" nowrap="" bgcolor="#FF4848" colspan="1" rowspan="1" color="#FFFFFF">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecWhite">Scienz.motorie e sportive</p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/LOTETA.html" class="nodecWhite">LOTETA</a></p>
-<p id="nodecWhite"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/palestra3.html" class="nodecWhite">palestra3</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFC080" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Fisica_prof</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BARRESI.html" class="nodecBlack">BARRESI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/GALLO%20N..html" class="nodecBlack">GALLO N.</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/II-34%20fisica.html" class="nodecBlack">II-34 fisica</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="mathema" nowrap="" bgcolor="#FFFFFF" colspan="1" rowspan="1">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-</p><p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FE7667" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Lingua e lett. it. - Storia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/IANNELLO.html" class="nodecBlack">IANNELLO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#00FFFF" colspan="1" rowspan="1" color="#000000">
-<p id="mathema">&nbsp;</p><p>
-</p><p id="nodecBlack">Diritto ed economia</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/FIGLIOZZI.html" class="nodecBlack">FIGLIOZZI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+</p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -997,17 +1006,8 @@ VEN5
 <td class="nodecBlack" nowrap="" bgcolor="#EB560E" colspan="1" rowspan="1" color="#000000">
 <p id="mathema">&nbsp;</p><p>
 </p><p id="nodecBlack">Lab. tecnologici ed esercit.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/BENENATI.html" class="nodecBlack">BENENATI</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
-<p id="mathema">&nbsp;</p><p>
-
-</p></td>
-
-<td class="nodecBlack" nowrap="" bgcolor="#FFD1A4" colspan="1" rowspan="1" color="#000000">
-<p id="nodecBlack">Tecnol. e tecn. di rapp. graf.</p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Docenti/D&#39;ARRIGO.html" class="nodecBlack">D'ARRIGO</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/0-05%20lab.%20inf.html" class="nodecBlack">0-05 lab. inf</a></p>
-<p id="nodecBlack"><a href="http://www.veronatrento.it/orario%2018-19/MM/Aule/I-08.html" class="nodecBlack">I-08</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Docenti/ARCUDI.html" class="nodecBlack">ARCUDI</a></p>
+<p id="nodecBlack"><a href="http://veronatrento.it/orario%2019-20/MMD/Aule/0-04%20pratica%20mecc..html" class="nodecBlack">0-04 pratica mecc.</a></p>
 <p id="mathema">&nbsp;</p><p>
 
 </p></td>
@@ -1028,7 +1028,7 @@ VEN5
 
 <center>
 <p class="mathema">
-<a href="http://www.veronatrento.it/orario%2018-19/MM/index.html" class="mathema">[Indice tabelle orario]</a>
+<a href="http://veronatrento.it/orario%2019-20/MMD/index.html" class="mathema">[Indice tabelle orario]</a>
 </p><p>
 </p><p class="mathema">
 Orario scolastico realizzato con il programma <a href="http://www.orariofacile.com/" class="mathema">Orario Facile 10</a> </p><p>
