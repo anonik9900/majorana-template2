@@ -48,6 +48,7 @@ include('script/nav_css.php');
   </div>
 
 
+<div align="center">
 <div id ="news-feed">
 
  <h3 class="feed">News Feed</h3>
@@ -59,6 +60,29 @@ include('script/nav_css.php');
 </noscript>
 </div>
 </div>
+</div>
+</div>
+
+
+<div id="storia">
+  <h2 class="storia-title">Storia Del Plesso Scolastico</h2>
+  <p class="storia-text">L'Istituto nasce nel 2009 dalla fusione dell'IPIA "E. Majorana" con l'ITIS "G. Marconi"<br>
+    ed è localizzato in un'unica sede moderna e spaziosa, , vari locali di servizio di supporto, aule e laboratori,<br>
+    materiali ed attrezzature idonee a soddisfare sia la necessità del curricolo sia le esigenze del territorio.
+  </p>
+
+  <div align="center">
+    <img class="media-reactive" src="galleria/logo2.jpg">
+  </div>
+
+  <h2 class="storia-title">Edificio e Scopo della scuola</h2>
+  <p class="storia-text">La sede è priva di barriere architettoniche, in regola con le normative antincendio ed è conforme, per quanto riguarda gli impianti tecnologici, ai requisiti di legge.<br>
+Lo scopo fondamentale della Scuola è la formazione umana e professionale degli allievi, che debbono acquisire conoscenze<br>
+ e competenze per una solida e convinta cultura tecnologica, scientifica ed organizzativa, flessibile ed aperta ai mutamenti del mondo del lavoro,<br>
+in grado di operare adattamenti e proposte innovative. Essa realizza adeguatamente il diritto di uguaglianza previsto dall’art.34 della Costituzione,<br>
+ perseguendo le finalità istituzionali di istruzione, formazione ed orientamento.<br>
+</p>
+
 </div>
 
 

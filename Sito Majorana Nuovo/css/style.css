@@ -11,6 +11,9 @@ html,body{
   background: #030653;
 }
 
+ul.rss-items {
+    list-style: none !important;
+}
 
 #home{
   height: 100%;
@@ -71,4 +74,27 @@ a.rss-title{
 a.rss-item:hover{
   transition: all 0.5s ease;
   color: red;
+}
+
+#storia{
+  padding-top: 10px;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  padding-bottom: 10px;
+  margin-bottom: 0;
+}
+
+p.storia-text{
+  color: black;
+  font-family: Poppins-Bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+h2.storia-title{
+  color: black;
+  font-family: Arial;
+  font-size: 50px;
+  text-align: center;
 }

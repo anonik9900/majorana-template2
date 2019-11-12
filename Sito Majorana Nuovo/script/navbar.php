@@ -13,7 +13,7 @@
           <li><a href="index.php">Home</a></li>
           <li><a href="#">Informazioni</a></li>
           <li><a href="#">Contatti</a></li>
-          <li><a href="pagine/orari.html">Orari-Scuola</a></li>
+          <li><a href="pagine/orario_new.html">Orari-Scuola</a></li>
         </ul>
       </div>
     </nav>
